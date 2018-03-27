@@ -1,0 +1,31 @@
+h1 {
+	font-family: Garamond;
+	font-size: 55px;
+	color: white;
+	text-align: center;
+}
+body {
+	background-color: #9999ff;
+	cursor: url(http://ani.cursors-4u.net/people/peo-9/peo1023.cur), auto;
+} 
+
+p {
+	color: white; 
+	font-size: 30px;
+	font-weight: 600;
+}
+ul {
+	font-size: 30px;
+	color: white;
+	font-family: Garamond;
+}
+
+ol {
+	font-size: 30px;
+	color: white;
+	font-family: Garamond;
+}
+
+header {
+	background-color:  #3366ff;
+}

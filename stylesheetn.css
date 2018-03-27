@@ -1,0 +1,22 @@
+body {
+	background-color:  #33ccff; 
+}
+
+header {
+	background-color:  #ff6600; 
+}
+
+h1 {
+	font-family: timesnewroman;
+}
+
+ul {
+	font-size: 30px;
+	color: black;
+	font-family: Garamond;
+}
+
+h2 {
+	font-family: garamond;
+	font-size: 30px;
+}
